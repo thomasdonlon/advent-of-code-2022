@@ -1,4 +1,4 @@
-filename = '/home/donlon/Desktop/code/advent-of-code-2022/day1_input.txt'
+filename = '/home/donlon/Desktop/code/advent-of-code-2022/day1/day1_input.txt'
 
 cal_list = []
 cal = 0
