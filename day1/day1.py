@@ -1,8 +1,6 @@
-filename = '/home/donlon/Desktop/code/advent-of-code-2022/day1/day1_input.txt'
-
 cal_list = []
 cal = 0
-with open(filename, 'r') as f:
+with open('./input.txt', 'r') as f:
 	for line in f:
 		if line != '\n':
 			cal += int(line)
